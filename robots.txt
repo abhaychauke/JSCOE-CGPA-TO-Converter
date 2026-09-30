@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhaychauke.github.io/JSCOE-CGPA-To-Converter/sitemap.xml
